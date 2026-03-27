@@ -25,7 +25,3 @@ Arduino-based robotic arm system using servo motors for multi-axis movement and 
 - All **Brown/Black wires** → Connected to **GND**
 - Signal wires → Connected to Arduino digital pins
 
-##  Important Note
-
-This project is suitable for simulation and small-scale implementation.  
-For real robotic applications, use an external power supply to drive multiple servo motors safely.
